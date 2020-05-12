@@ -1,0 +1,16 @@
+[
+  {
+    "qInfo": {
+      "qId": "e64f5429-0841-4800-8c92-19954d4d324f",
+      "qType": "variable"
+    },
+    "qMetaDef": {},
+    "qName": "vFail",
+    "qNumberPresentation": {
+      "qType": "U",
+      "qnDec": 10,
+      "qUseThou": 0
+    },
+    "qDefinition": "Success"
+  }
+]

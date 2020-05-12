@@ -1,0 +1,74 @@
+{
+  "qTitle": "App H",
+  "qLastReloadTime": "2020-02-27T09:49:28.598Z",
+  "qMigrationHash": "98d482c3f964dccf69cbfb9a00e0c048ea6eb221",
+  "qSavedInProductVersion": "12.287.2",
+  "qThumbnail": {},
+  "createdDate": "2019-10-14T15:19:34.359Z",
+  "modifiedDate": "2020-02-27T09:49:29.158Z",
+  "published": false,
+  "publishTime": "1753-01-01T00:00:00.000Z",
+  "privileges": [
+    "read",
+    "update",
+    "delete",
+    "publish",
+    "exportdata",
+    "offlineaccess",
+    "duplicate"
+  ],
+  "description": "",
+  "dynamicColor": "",
+  "create": [
+    {
+      "resource": "sheet",
+      "canCreate": true
+    },
+    {
+      "resource": "bookmark",
+      "canCreate": true
+    },
+    {
+      "resource": "snapshot",
+      "canCreate": true
+    },
+    {
+      "resource": "story",
+      "canCreate": true
+    },
+    {
+      "resource": "dimension",
+      "canCreate": true
+    },
+    {
+      "resource": "measure",
+      "canCreate": true
+    },
+    {
+      "resource": "masterobject",
+      "canCreate": true
+    },
+    {
+      "resource": "folderconnection",
+      "canCreate": true
+    },
+    {
+      "resource": "oledbconnection",
+      "canCreate": true
+    },
+    {
+      "resource": "odbcconnection",
+      "canCreate": true
+    },
+    {
+      "resource": "internetconnection",
+      "canCreate": true
+    },
+    {
+      "resource": "customconnection",
+      "canCreate": true
+    }
+  ],
+  "stream": null,
+  "canCreateDataConnections": true
+}
