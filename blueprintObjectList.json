@@ -11,6 +11,14 @@
     {
       "qId": "RCmaqq",
       "qType": "histogram"
+    },
+    {
+      "qId": "07edcac6-e672-441f-b4e7-e73cae0fe337",
+      "qType": "sheet"
+    },
+    {
+      "qId": "hZsAykc",
+      "qType": "linechart"
     }
   ]
 }
